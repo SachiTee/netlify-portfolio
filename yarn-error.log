@@ -1,5 +1,5 @@
 Arguments: 
-  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/bin/yarn.js outdated --cwd /Users/stakasawa/Library/Autosave Information/Framer-FDDA498B-A095-47BE-89BE-FDC808854D77/container --skip-integrity-check --cache-folder /Users/stakasawa/Library/Caches/Framer/yarn/cache --mutex file:/Users/stakasawa/Library/Caches/Framer/yarn/mutex --json --ignore-scripts --link-folder /Users/stakasawa/Library/Application Support/Framer X/yarn-link-folder
+  /Applications/Framer X.app/Contents/Resources/Node/bin/node /Applications/Framer X.app/Contents/Resources/Server/node_modules/yarn/bin/yarn.js outdated --cwd /Users/stakasawa/Library/Autosave Information/Framer-03646D92-9A11-4138-9D18-EBD188BFEC36/container --skip-integrity-check --cache-folder /Users/stakasawa/Library/Caches/Framer/yarn/cache --mutex file:/Users/stakasawa/Library/Caches/Framer/yarn/mutex --json --ignore-scripts --link-folder /Users/stakasawa/Library/Application Support/Framer X/yarn-link-folder
 
 PATH: 
   undefined
